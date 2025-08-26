@@ -1,4 +1,4 @@
-# RGCCA-for-Planet-NICFI
+# R-RGCCA-for-Planet-NICFI
 
 This code is for Re-weighted Regularized Generalized Canonical Correlation Analysis (R-RGCCA) for a paper of Planet-NICFI, authored by Lino Garda Denaro, Ph.D.
 
