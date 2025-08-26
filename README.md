@@ -8,7 +8,6 @@ This code is for Re-weighted Regularized Generalized Canonical Correlation Analy
 
 ## 📌 **Dataset Overview**  
 
-Data Planet NIFCI and Landsat-8/-9
 
 
 
